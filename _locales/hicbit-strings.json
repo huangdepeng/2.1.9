@@ -132,7 +132,7 @@
   "hicbit.hicbit_runActionGroup|block": "Run ActionGroup|index %index|times %times",
   "hicbit.hicbit_servorange.range1|block": "180",
   "hicbit.hicbit_servorange.range2|block": "270",
-  "hicbit.hicbit_setMotorSpeed|block": "Set |port %port| motor speed|%speed|",
+  "hicbit.hicbit_setMotorSpeed|block": "Set |port %port| motor speed|speed %speed|",
   "hicbit.hicbit_stopActionGroup|block": "Stop ActionGroup",
   "hicbit.onhicbit_getAngle|block": "on hicbit|%servo|get angle",
   "hicbit.setServo|block": "Set pwm servo range|range %range|index %index|angle %angle|duration %duration",
